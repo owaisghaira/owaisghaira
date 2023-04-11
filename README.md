@@ -3,9 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisghaira" alt="owaisghaira" /></a> </p>
 
-- 🔭 I’m currently working on [outlier](https://www.outlier.org/)
-
 - 🌱 I’m currently learning **blockchain**
+
+- PORTFOLIO
+**owaisghaira.vercel.app**
 
 - 💬 Ask me about **react,nextjs**
 
