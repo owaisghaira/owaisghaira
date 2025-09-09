@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisghaira" alt="owaisghaira" /></a> </p>
 
-- 🌱 I’m currently learning **blockchain**
-
-- 💬 Ask me about **react,nextjs**
+- 💬 Ask me about **react,nextjs,remix,node**
 
 - 📫 How to reach me **owais.ghaira99@gmail.com**
 
