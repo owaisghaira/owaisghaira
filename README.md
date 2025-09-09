@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm owais ghaira</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisghaira" alt="owaisghaira" /></a> </p>
-
-- 💬 Ask me about **react,nextjs,remix,node**
+- 💬 Ask me about **react, nextjs, remix, node**
 
 - 📫 How to reach me **owais.ghaira99@gmail.com**
 
