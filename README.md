@@ -5,9 +5,6 @@
 
 - 🌱 I’m currently learning **blockchain**
 
-- PORTFOLIO
-**owaisghaira.vercel.app**
-
 - 💬 Ask me about **react,nextjs**
 
 - 📫 How to reach me **owais.ghaira99@gmail.com**
